@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hey hello how are you are you good
+=======
+hey hello how are you tq so much for the help
+>>>>>>> feature
